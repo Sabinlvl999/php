@@ -1,0 +1,64 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.header {
+  display: flex;
+  background-color: bisque;
+  justify-content: space-between;  
+  align-items: center;
+  padding: 10px;
+}
+
+.header1 {
+  font-size:  20px;
+  display: flex;
+  
+}
+.h1 h1{
+font-size: 50px;
+align-self: center ;
+color: black;
+}
+
+.logo img {
+  height: 130px;
+  width: 130px;
+
+}
+.section{
+  background-color: black;
+  align-items: center;
+}
+.h3 {
+  text-transform: uppercase;
+  text-align: center;
+  color: white ;
+}
+
+form{
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+  align-content: center;
+  border: 5px solid;
+}
+.form-group{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 20px;
+}
+.button1{
+  font-size: 20px;
+  background-color: aqua;
+}
+.button1:hover{
+  background-color: burlywood; 
+}
+.button{
+  text-align: center;
+  margin-top: 20px;
+  
+}
